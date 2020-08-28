@@ -1,0 +1,17 @@
+button{
+    background-color: pink;
+}
+
+
+#display-panel-paragraph{
+    border: solid;
+    height: 40px;
+}
+
+#previous-numbers-display{
+    border: dotted;
+    height: 40px;
+}
+
+
+
